@@ -1,0 +1,3 @@
+ch/cern/hadoopJob/reducer/MaxTemperatureReducer.class
+ch/cern/hadoopJob/MaxTemperatureJob.class
+ch/cern/hadoopJob/mapper/MaxTemperatureMapper.class
