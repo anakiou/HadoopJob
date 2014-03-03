@@ -1,3 +1,3 @@
-/Users/anakiou/Documents/AK/Java/HadoopJob/src/main/java/ch/cern/hadoopJob/MaxTemperatureJob.java
-/Users/anakiou/Documents/AK/Java/HadoopJob/src/main/java/ch/cern/hadoopJob/mapper/MaxTemperatureMapper.java
-/Users/anakiou/Documents/AK/Java/HadoopJob/src/main/java/ch/cern/hadoopJob/reducer/MaxTemperatureReducer.java
+/Users/anakiou/Documents/AK/Java/HadoopJob/src/main/java/ch/cern/hadoopJob/GenJob.java
+/Users/anakiou/Documents/AK/Java/HadoopJob/src/main/java/ch/cern/hadoopJob/reducer/GenReducer.java
+/Users/anakiou/Documents/AK/Java/HadoopJob/src/main/java/ch/cern/hadoopJob/mapper/GenMapper.java
